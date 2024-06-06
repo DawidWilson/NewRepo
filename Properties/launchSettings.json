@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Урок 1 Цифра C#": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
